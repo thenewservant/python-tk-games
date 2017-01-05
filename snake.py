@@ -1,4 +1,6 @@
 #code par GLA
+""" GAME IN BETA, 
+that's impossible to play this. """
 
 from tkinter import *
 class snake:
