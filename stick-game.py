@@ -1,5 +1,6 @@
 #Code cree en 11/2016 par GLA
 #v1.1
+""" please note that the full game is written in French."""
 
 from tkinter import *
 from tkinter.messagebox import *
